@@ -1,3 +1,5 @@
+![Quiver: More Bows](https://github.com/travhimself/quiver/blob/master/About/Preview.png?raw=true)
+
 # Quiver: More Bows
 
 A RimWorld mod that adds several new and interesting bows throughout the tech tree.
