@@ -197,10 +197,10 @@
 	</ThingDef>
 
 	<!-- grav bow -->
-	<ThingDef ParentName="BaseWeaponNeolithic">
+	<ThingDef ParentName="BaseGun">
 		<defName>Quiver_Bow_Grav</defName>
 		<label>Grav Bow</label>
-		<description>This modern less-lethal analog of the ancient selfbow is made from two low-grade anti-gravity pods (of the type sometimes used in xxx) mounted to a rigid frame. A virtual bowstring is superimposed in the appropriate location for user-friendliness. The grav bow has no moving parts. No arrow is fired; instead, a narrow gravity tunnel is projected in the direction of the enemy combatant. Test firings across multiple species (n=18,934) showed minor organ shock is nearly guaranteed. Documents accompanying the official techprint license plainly state "do not fire directly at the head." Cracked black market licenses rarely have these attachments.</description>
+		<description>This modern less-lethal analog of the ancient selfbow is made from two low-grade anti-gravity pods (of the type sometimes used in star ships) mounted to a rigid frame. A virtual bowstring is superimposed in the appropriate location for user-friendliness. The grav bow has no moving parts. No arrow is fired; instead, a narrow gravity tunnel is projected in the direction of the enemy combatant. Test firings across multiple species (n=18,934) showed minor organ shock is nearly guaranteed. Documents accompanying the official techprint license plainly state "do not fire directly at the head." Cracked black market licenses rarely have these attachments.</description>
 		<graphicData>
 			<texPath>quiver_bow_grav</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -262,7 +262,7 @@
 	</ThingDef>
 
 	<!-- proton bow -->
-	<ThingDef ParentName="BaseWeaponNeolithic">
+	<ThingDef ParentName="BaseGun">
 		<techLevel>Ultra</techLevel>
 		<defName>Quiver_Bow_Proton</defName>
 		<label>Proton Bow</label>
@@ -316,7 +316,7 @@
 	</ThingDef>
 
 	<!-- electron bow -->
-	<ThingDef ParentName="BaseWeaponNeolithic">
+	<ThingDef ParentName="BaseGun">
 		<techLevel>Ultra</techLevel>
 		<defName>Quiver_Bow_Electron</defName>
 		<label>Electron Bow</label>
