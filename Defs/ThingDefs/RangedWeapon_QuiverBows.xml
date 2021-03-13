@@ -132,7 +132,7 @@
 	</ThingDef>
 
 	<!-- advanced recurve bow -->
-	<ThingDef ParentName="BaseWeaponNeolithic">
+	<ThingDef ParentName="BaseGun">
 		<defName>Quiver_Bow_Advanced_Recurve</defName>
 		<label>Advanced Recurve Bow</label>
 		<description>A modern take on the ancient recurve bow, using space-age materials. The plasteel arches are exceptionally efficient at transfering stored energy from the flexed frame to the projectile, achieving very high speeds and excellent stopping power. It requires a great deal of strength to draw, however; follow-up shots are slow. The tech bow is recommended only for accomplished marksmen.</description>
